@@ -10,7 +10,7 @@ int main()
 
     // Generate random number between 1 and 100
     int randomNumber = (rand() % 100) + 1;
-    int no_of_guesses = 0;
+    int no_of_guesses = 0; 
     int guessed_number;
 
     // Print the random number
